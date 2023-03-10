@@ -16,7 +16,7 @@
 - 📄 Know about my experiences
 [https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link](https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link)
 
-<img src="https://miro.medium.com/v2/da:true/resize:fit:680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="animated.gif">
+<img src="https://miro.medium.com/v2/da:true/resize:fit:680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="animated.gif" width="400">
 
 
 #
