@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pankaj Chavan</h1>
 <h3 align="center">A passionate MERN developer from Nashik,Maharashtra, India.</h3>
 
-<img src="https://miro.medium.com/v2/da:true/resize:fit:680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="animated.gif" width="400">
+<img src="https://miro.medium.com/v2/da:true/resize:fit:680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="animated.gif" width="500">
+
 
 - 🌱 I’m currently learning **Angular**
 
@@ -15,7 +16,7 @@
 - 📫 How to reach me **pankajchavan963@gmail.com**
 
 - 📄 Know about my experiences
-[https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link](https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link)
+[https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link](https://github.com/panku-chavan/panku-chavan/blob/main/resume/Pankaj-Chavan.pdf)
 
 
 
