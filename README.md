@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/panku_chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panku_chavan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pankaj-chavan-9ba6681ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-chavan-9ba6681ba" height="30" width="40" /></a>
-<a href="https://instagram.com/panku_chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panku_chavan" height="30" width="40" /></a>
+<a href="https://twitter.com/panku_chavan" target="blank"><img align="center" src="https://img.icons8.com/color/256/twitter.png" alt="panku_chavan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pankaj-chavan-9ba6681ba" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin-circled.png" alt="pankaj-chavan-9ba6681ba" height="30" width="40" /></a>
+<a href="https://instagram.com/panku_chavan" target="blank"><img align="center" src="https://img.icons8.com/color/256/instagram-new.png" alt="panku_chavan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
