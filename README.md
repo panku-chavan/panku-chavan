@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link](https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link)
 
-<hr/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/panku_chavan" target="blank"><img align="center" src="https://img.icons8.com/color/256/twitter.png" alt="panku_chavan" height="30" width="40" /></a>
