@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pankaj Chavan</h1>
 <h3 align="center">A passionate MERN developer from Nashik,Maharashtra, India.</h3>
 
+<img src="https://miro.medium.com/v2/da:true/resize:fit:680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="animated.gif">
+
 - 🌱 I’m currently learning **Angular**
   
 - 👨‍💻 I have knowledge about **React**
