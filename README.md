@@ -3,12 +3,12 @@
   A passionate MERN developer from Nashik,Maharashtra, India.
 </h3>
 
-- 🌱 I’m currently learning **Angular** - 👨‍💻 I have knowledge about **React** -
-👨‍💻 All of my projects are available at
-[https://panku-chavan.github.io/my-portfolio/](https://panku-chavan.github.io/my-portfolio/)
-- 💬 Ask me about **react** - 📫 How to reach me **pankajchavan963@gmail.com** -
-📄 Know about my experiences
-[https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link](https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link)
+- 🌱 I’m currently learning **Angular** 
+- 👨‍💻 I have knowledge about **React** 
+- 👨‍💻 All of my projects are available at [https://panku-chavan.github.io/my-portfolio/](https://panku-chavan.github.io/my-portfolio/)
+- 💬 Ask me about **react** 
+- 📫 How to reach me **pankajchavan963@gmail.com** 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link](https://drive.google.com/file/d/1SXw79BIJV5XeX59rdd-9V5QHnsJv_OiC/view?usp=share_link)
 
 <img
   src="https://miro.medium.com/v2/da:true/resize:fit:680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
