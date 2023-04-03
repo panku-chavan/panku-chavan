@@ -84,7 +84,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://camo.githubusercontent.com/423664f678fc08582fa8c2e5999d6eef9225631dcac55e3b3a66a90a0edb6bf7/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f657870726573732d3130392e737667"
+      src="https://play-lh.googleusercontent.com/tYFJKlcOj4mUoS36v7w50TRvZ4HErZVkjo2Nvc4Ba_XE5xBr0Rphj4_BW-wMJ-JsDfEC"
       alt="express"
       width="40"
       height="40"
