@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://panku-chavan.github.io/my-portfolio/](https://panku-chavan.github.io/my-portfolio/)
 - 💬 Ask me about **react** 
 - 📫 How to reach me **pankajchavan963@gmail.com** 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1CP59uAv3Z6qFd9Viflx47tKVYxXwTjIK/view?usp=share_link)
+- 📄 [Check my resume](https://drive.google.com/file/d/1CP59uAv3Z6qFd9Viflx47tKVYxXwTjIK/view?usp=share_link)
 
 <img
   src="https://miro.medium.com/v2/da:true/resize:fit:680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
