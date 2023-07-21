@@ -2,7 +2,6 @@
 <h3 align="center">
   A passionate MERN stack developer from Nashik,Maharashtra, India.
 </h3>
-
 - 🌱 I’m currently learning **Angular** 
 - 👨‍💻 I have knowledge about **React** 
 - 👨‍💻 All of my projects are available at [https://panku-chavan.github.io/my-portfolio/](https://panku-chavan.github.io/my-portfolio/)
