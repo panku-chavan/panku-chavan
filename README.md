@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular** 
 - 👨‍💻 I have knowledge about **React** 
-- 👨‍💻 All of my projects are available at [https://panku-chavan.github.io/my-portfolio/](https://panku-chavan.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://panku-chavan.github.io/my-portfolio/](https://panku-chavan.vercel.app/)
 - 💬 Ask me about **react** 
 - 📫 How to reach me **pankajchavan963@gmail.com** 
 - 📄 [Check my resume](https://drive.google.com/file/d/10iGve-dzTyVwgBUoWhy4LXqKXWP2tNK6/view?usp=sharing)
